@@ -12,12 +12,10 @@
     - [database ](#database-)
     - [Usage ](#usage-)
   - [✍️ Authors ](#️-authors-)
-    - [👤 **Salwa Ballouti**:](#-salwa-ballouti)
-  - [🔭 Future Features ](#-future-features-)
-  - [🤝 Contributing ](#-contributing-)
-  - [💖 Show your support ](#-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [📝  License ](#--license-)
+   ### 👤 **Billal Chami**:
+- GitHub: [@githubhandle](https://github.com/bill7pearl)
+- Twitter: [@twitterhandle](https://twitter.com/BillChami)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/billal-chami-263497194/)
 
 
 # Greeting App <a name="about-project"></a>
@@ -66,7 +64,7 @@ In order to run this project you need [Ruby](https://www.ruby-lang.org/en/), [Ra
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/Salwa99/hello-rails-react.git
+  git clone https://github.com/bill7pearl/hello-rails-react.git
 ```
 
 ```sh
